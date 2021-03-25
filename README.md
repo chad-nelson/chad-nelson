@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm currently working on using Github pages to build a portfolio website. Check it out at https://chad-nelson.github.io/
 
 <!--
 **chad-nelson/chad-nelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
